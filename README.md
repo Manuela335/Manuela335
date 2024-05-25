@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuela Ballén</h1>
 <h3 align="center">A Trainee Developer from Colombia</h3>
 
-- 🔭 I’m currently working on Menti Academy [https://mentiacademy.tech/](https://mentiacademy.tech/)
+- 🔭 I’m currently working on Applying Consulting (https://www.applying.cloud/)
 
 - 🌱 I’m currently learning **Data Science, Django, IA**
 
